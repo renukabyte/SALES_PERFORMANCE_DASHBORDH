@@ -17,7 +17,7 @@ This dashboard provides an overview of sales performance using interactive chart
 - Sales by Category
 - Sales by Region
 - Top Performing Products
-- Interactive Filters (if available)
+- Interactive Filters
 
 ## Tools Used
 - Microsoft Excel
